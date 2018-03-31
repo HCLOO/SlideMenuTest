@@ -1,0 +1,2 @@
+# SlideMenuTest
+运用DrawerLayout、NavigationView和CircleImageView开源框架设计滑动菜单（个人项目）
